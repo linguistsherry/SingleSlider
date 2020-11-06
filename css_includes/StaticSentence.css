@@ -1,0 +1,12 @@
+.flashed-sentence {
+    font-size: normal;
+  line-height: 150%;
+  margin-top: -100px;
+    width: 22em;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.continue-link { text-decoration: none; color: blue; }
+.continue-link:hover { text-decoration: underline; color: blue; }
+.continue-link:visited { color: blue; }

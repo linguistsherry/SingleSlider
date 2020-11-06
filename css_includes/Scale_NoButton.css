@@ -1,0 +1,50 @@
+.html1 {
+    text-align: left;
+    align: left;
+    float: left;
+    margin-left: -50px;
+    width: 350px;
+}
+
+.bar {
+    margin-top: -2px;
+    width: 300px;
+    height: 20px;
+    /*position: relative;*/
+    /*background: green;*/
+    background-image: none !important;
+    background-color:  #000080;
+    float: right;
+    align: right;
+    margin-right: -25px;
+}
+
+.disable-mousemove {
+    pointer-events: none;
+    position: relative;
+}
+
+.handle, .handle-label, .scale-label {
+    font-family: sans-serif;
+    position: absolute;
+    background: red !important;
+    float: right;
+    align: right;
+    margin-right: -25px;
+}
+
+.handle {
+    width: 60px;
+    height: 60px;
+    cursor: default;
+    font-face: bold;
+    border: 2px solid red;
+    background: red !important;
+    float: right;
+    align: right;
+    margin-right: -25px;
+}
+
+.button {
+    display: none;
+}

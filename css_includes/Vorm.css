@@ -1,0 +1,22 @@
+.error-text {
+    color: red;
+    font-weight: bold;
+}
+
+.button {
+  position: relative;
+  top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  width: 70px;
+  cursor: pointer;
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+}
